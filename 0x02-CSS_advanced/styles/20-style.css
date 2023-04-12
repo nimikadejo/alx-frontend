@@ -558,7 +558,7 @@ ul.row {
 /* Clear the context of the grid*/
 
 .row::after {
-    content: none;
+    content: "";
     display: table;
     clear: both;
 }
