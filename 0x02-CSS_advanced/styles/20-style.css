@@ -488,6 +488,7 @@
     margin: var(--section-tagline-margin);
 }
 
+/*  Styling the container */
 .container {
     width: 960px;
     margin-right: auto;
